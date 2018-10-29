@@ -4,7 +4,7 @@
   "license": "http://md-pro-angular.creative-tim.com/documentation/tutorial",
   "repository": {
     "type": "git",
-    "url": "https://github.com/creativetimofficial/material-dashboard-pro-angular.git"
+    "url": "https://gitlab.com/reactdev1046/angular5-materialui.git"
   },
   "scripts": {
     "ng": "ng",
